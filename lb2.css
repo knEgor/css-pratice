@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    height: 30vh;
+    background-color: lightskyblue;
+    color: red
+}
+
+.main {
+    height: 40vh;
+    background-color: lightgreen;
+    font-style: italic;
+}
+
+.footer {
+    height: 30vh;
+    background-color: lightsalmon;
+}
